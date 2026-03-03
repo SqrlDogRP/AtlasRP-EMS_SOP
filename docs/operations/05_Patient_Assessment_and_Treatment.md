@@ -1,16 +1,11 @@
-# Operations — Patient Assessment & Treatment
+# Operations — Assessment & Treatment
 
 ## Primary Survey (ABCDE)
-- Airway
-- Breathing
-- Circulation (stop major bleeding first)
-- Disability (AVPU/GCS-style RP)
-- Exposure
+Airway, Breathing, Circulation, Disability, Exposure.
 
 ## Secondary Survey
-Head-to-toe + relevant history.
+Head-to-toe and relevant history.
 
-## Treatment Philosophy (balanced)
-- Stabilize in the field
-- Transport for definitive care
-- Avoid “god-mode medicine” on scene
+## Balanced treatment rule
+Stabilize in the field; definitive care happens at hospital.
+Avoid “god-mode medicine” on scene.

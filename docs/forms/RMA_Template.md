@@ -1,19 +1,19 @@
-# RMA Template (Refusal of Medical Aid)
+# RMA (Refusal) Template
 
-**Patient:**  
-**Date/Time:**  
-**Location:**  
-**Crew/Unit:**  
+Patient:
+Date/Time:
+Location:
+Unit/Crew:
 
-## Competency Check
-- Oriented? Yes/No
-- Under influence? Yes/No
+Competency:
+- Alert/oriented? (Y/N)
+- Impaired? (Y/N) Explain:
 
-## Risks Explained
-- 
+Risks explained:
+-
 
-## Patient Statement
-> "I understand the risks and refuse treatment/transport."
+Patient statement:
+"I understand the risks and refuse treatment/transport."
 
-## Signature (RP)
+Signature (RP):
 -

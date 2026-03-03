@@ -1,17 +1,17 @@
 # Incident Report Template
 
-**Date/Time:**  
-**Units involved:**  
-**Location:**  
+Date/Time:
+Units involved:
+Location:
 
-## Summary
-- 
+Summary:
+-
 
-## Actions Taken
-- 
+Actions:
+-
 
-## Outcome
-- 
+Outcome:
+-
 
-## Follow-ups
+Follow-ups:
 -

@@ -1,15 +1,10 @@
 # Operations — Incident Command System (ICS)
 
-## Default Assignments
-- First EMS: **Medical Branch Director**
-- Senior Fire: **Fire Branch**
-- Law Enforcement: **Security / Perimeter**
+Used for multi-unit scenes and MCIs.
 
-## ICS Roles
-- Triage Officer
-- Treatment Officer
-- Transport Officer
-- Staging Officer
+Default:
+- First EMS: Medical Branch Director
+- Law Enforcement: Security/Perimeter
+- Fire (if present): Fire Branch
 
-## Comms
-Keep radio traffic short and essential.
+Roles: Triage, Treatment, Transport, Staging.

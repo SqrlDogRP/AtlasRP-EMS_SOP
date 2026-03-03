@@ -1,17 +1,14 @@
 # Contributing
 
-## Rules
-- Keep tone: semi-serious, balanced, enforceable
-- No medical dosing or real-world drug instructions
-- Write for in-game behavior and RP expectations
+## Tone
+Semi-serious, balanced, enforceable. We support story; we prevent chaos.
 
-## How to propose changes
-1. Open an Issue using the templates
-2. Submit a PR referencing the issue
-3. Update CHANGELOG.md
-4. If it changes player outcomes, include an effective date + announcement text
+## Rules for edits
+- Use MUST / MUST NOT / MAY language for enforceable rules
+- Avoid real-world medication dosing or instruction
+- If a change affects outcomes, add an effective date + announcement text
 
-## Style
-- Use short sections
-- Use bullet rules
-- Use “must / must not / may” language
+## Workflow
+1) Open an issue
+2) Submit PR referencing the issue
+3) Update CHANGELOG.md

@@ -1,15 +1,13 @@
-# Operations — Transport & Hospital Handoff
+# Operations — Transport & Handoff
 
-## Transport Decision
-- Critical patients transport immediately.
-- Do not delay transport for non-medical RP.
+## Transport trigger
+Critical or worsening patients MUST be transported.
 
-## Handoff Standard
-- Who: age/name if known
-- What: complaint / mechanism
-- Findings: injuries + vitals RP
+## Handoff format (quick)
+- Who (patient)
+- What (mechanism/complaint)
+- Findings (key injuries)
 - Interventions
 - Response/changes
 
-## Refusal (RMA)
-Allowed if competent and informed. Document it.
+Refusals MUST use the RMA form template.

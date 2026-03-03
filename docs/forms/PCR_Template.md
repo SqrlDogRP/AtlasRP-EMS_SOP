@@ -1,31 +1,31 @@
 # PCR Template (Copy/Paste)
 
-**Unit:**  
-**Crew:**  
-**Date/Time:**  
-**Location:**  
+Unit:
+Crew:
+Date/Time:
+Location:
 
-## Chief Complaint / Dispatch Info
-- 
+Chief Complaint / Dispatch:
+-
 
-## Mechanism of Injury / Context
-- 
+Mechanism / Context:
+-
 
-## Assessment (Primary + Secondary)
+Assessment (ABCDE + secondary):
 - Airway:
 - Breathing:
 - Circulation:
 - Disability:
 - Exposure:
-- Secondary findings:
+- Secondary:
 
-## Treatment Rendered
-- 
+Treatment Rendered:
+-
 
-## Transport / Disposition
-- Transported to:
+Transport / Disposition:
+- Destination:
 - Handoff to:
-- RMA (if applicable): Yes/No
+- RMA? (Y/N)
 
-## Notes
+Notes:
 -
