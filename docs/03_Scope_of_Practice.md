@@ -1,12 +1,20 @@
-# Scope of Practice Matrix
+# Part III — Scope of Practice
 
-| Skill | EMR | EMT-B | EMT-I | Paramedic | AMU |
-|-------|------|-------|--------|------------|------|
-| CPR | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Oxygen | ✓ | ✓ | ✓ | ✓ | ✓ |
-| IV | ✗ | ✗ | ✓ | ✓ | ✓ |
-| Medication | ✗ | Limited | Limited | Full | Full |
-| Intubation | ✗ | ✗ | ✗ | ✓ | ✓ |
-| Surgical Intervention | ✗ | ✗ | ✗ | ✗ | ✓ |
+This scope exists to prevent “everyone can do everything.”
 
-Exceeding scope = strike offense.
+## Scope Matrix
+
+| Skill / Intervention | EMR | EMT-B | EMT-I | Paramedic | AMU |
+|---|---:|---:|---:|---:|---:|
+| CPR / AED | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Oxygen / BLS Airway | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Hemorrhage control (TQ / packing) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| IV access | ❌ | ❌ | ✅ | ✅ | ✅ |
+| Med administration | ❌ | Limited | Limited | ✅ | ✅ |
+| Advanced airway (intubation) | ❌ | ❌ | ❌ | ✅ | ✅ |
+| Field death pronouncement | ❌ | ❌ | Limited (w/ Supervisor) | ✅ | ✅ |
+| Surgery | ❌ | ❌ | ❌ | ❌ | ✅ |
+
+## Enforcement
+- Operating outside scope = **strikeable offense**
+- Supervisors may restrict a provider pending retraining.

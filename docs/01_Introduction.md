@@ -1,13 +1,16 @@
-# Introduction
+# Part I — Introduction
 
-ATLAS Emergency Medical Authority (AEMA) exists to:
+## Mission
+AEMA exists to preserve life and provide consistent, believable emergency medical roleplay for ATLAS RP.
 
-- Preserve life
-- Maintain medical realism
-- Prevent powergaming
-- Support immersive storytelling
+## The “Semi-Serious, Balanced” Standard
+- We are not a hardcore medical simulator.
+- We are not a revive service.
 
-This is not hardcore simulation.
-This is structured realism with authority.
+**Rule of thumb:** If an injury would reasonably change what a person can do next, it should change the RP.
 
-Medical decisions are final when made in good faith.
+## Core Values
+- Professionalism in public and on radio
+- Fair play (no powergaming, no griefing)
+- Medical realism with fun preserved
+- Accountability through documentation
