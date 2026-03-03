@@ -1,15 +1,15 @@
 # IA Complaint / Referral
 
-**Complainant:**  
-**Accused member(s):**  
-**Date/Time:**  
-**Location:**  
+Complainant:
+Accused member(s):
+Date/Time:
+Location:
 
-## Allegation
-- 
+Allegation:
+-
 
-## Evidence
-- 
+Evidence:
+-
 
-## Requested Outcome
+Requested outcome:
 -

@@ -1,17 +1,18 @@
 # Death Pronouncement Template
 
-**Patient:**  
-**Date/Time:**  
-**Location:**  
-**Authorized Provider:**  
+Patient:
+Date/Time:
+Location:
+Authorized Provider:
 
-## Findings
+Findings:
 - No pulse / no respirations
-- Injuries incompatible with life OR prolonged down time
-- Scene Code 4 confirmed
+- Incompatible injuries OR prolonged down time
+- Code 4 confirmed
 
-## Notifications
+Notifications:
 - LEO notified
 - PCR completed
 
-**Time pronounced:**
+Time pronounced:
+-

@@ -1,16 +1,17 @@
 # Life Flight Log
 
-**Date/Time:**  
-**Pilot:**  
-**Medical crew:**  
-**Pickup:**  
-**Destination:**  
+Date/Time:
+Pilot:
+Medical crew:
+Pickup:
+Destination:
 
-## LZ Notes
+LZ Notes:
 - Security status:
 - Hazards:
 
-## Summary
-- 
+Summary:
+-
 
-**Completed by:**
+Completed by:
+-

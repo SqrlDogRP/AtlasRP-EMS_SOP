@@ -1,16 +1,14 @@
 # Part I — Introduction
 
 ## Mission
-AEMA exists to preserve life and provide consistent, believable emergency medical roleplay for ATLAS RP.
+AEMA provides consistent emergency medical roleplay across ATLAS RP—immersive, fair, and fast.
 
-## The “Semi-Serious, Balanced” Standard
-- We are not a hardcore medical simulator.
-- We are not a revive service.
+## Semi-Serious Standard
+- Not a hardcore simulator
+- Not a revive service
+- Injuries must matter in believable ways
 
-**Rule of thumb:** If an injury would reasonably change what a person can do next, it should change the RP.
-
-## Core Values
-- Professionalism in public and on radio
-- Fair play (no powergaming, no griefing)
-- Medical realism with fun preserved
-- Accountability through documentation
+## Operational Goals
+- Reduce scene chaos
+- Prevent powergaming
+- Support storylines with consistent medical outcomes
