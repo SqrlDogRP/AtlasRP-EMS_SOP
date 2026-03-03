@@ -3,7 +3,7 @@
 
 This document contains the official roster for the ATLAS RP Emergency Medical Authority.
 
-The roster reflects current rank, role, and operational status for all members.
+The roster reflects current rank, role, certifications, and operational status for all members.
 
 Roster updates must be approved by Command.
 
@@ -11,39 +11,39 @@ Roster updates must be approved by Command.
 
 # High Command
 
-| Name | Rank | Role | Status |
-|-----|-----|-----|-----|
-| TBD | Director | Department Head | Active |
-| TBD | Deputy Director | Deputy Department Head | Active |
+| Name | Call Sign | Rank | Role | Status |
+|-----|-----|-----|-----|-----|
+| TBD | EMS-01 | Director | Department Head | Active |
+| TBD | EMS-02 | Deputy Director | Deputy Department Head | Active |
 
 ---
 
 # Command Staff
 
-| Name | Rank | Role | Certifications | Status |
-|-----|-----|-----|-----|-----|
-| TBD | Chief Medical Officer | Medical Operations Lead | Critical Care, AMU | Active |
-| TBD | Lieutenant | Field Operations Supervisor | FTO, Critical Care | Active |
+| Name | Call Sign | Rank | Role | Certifications | Status |
+|-----|-----|-----|-----|-----|-----|
+| TBD | EMS-10 | Chief Medical Officer | Medical Operations Lead | Critical Care, AMU | Active |
+| TBD | EMS-11 | Lieutenant | Field Operations Supervisor | FTO, Critical Care | Active |
 
 ---
 
 # Supervisory Staff
 
-| Name | Rank | Certifications | FTO | Status |
-|-----|-----|-----|-----|-----|
-| TBD | Lead Paramedic | Critical Care | Yes | Active |
-| TBD | Senior Paramedic | Life Flight | No | Active |
+| Name | Call Sign | Rank | Certifications | FTO | Status |
+|-----|-----|-----|-----|-----|-----|
+| TBD | EMS-20 | Lead Paramedic | Critical Care | Yes | Active |
+| TBD | EMS-21 | Senior Paramedic | Life Flight | No | Active |
 
 ---
 
 # Field Personnel
 
-| Name | Rank | Certifications | Status |
-|-----|-----|-----|-----|
-| TBD | Paramedic | Critical Care | Active |
-| TBD | EMT-Intermediate | Fire Certification | Active |
-| TBD | EMT-Basic | — | Active |
-| TBD | EMR | — | Training |
+| Name | Call Sign | Rank | Certifications | Status |
+|-----|-----|-----|-----|-----|
+| TBD | EMS-31 | Paramedic | Critical Care | Active |
+| TBD | EMS-41 | EMT-Intermediate | Fire Certification | Active |
+| TBD | EMS-51 | EMT-Basic | — | Active |
+| TBD | EMS-61 | EMR | — | Training |
 
 ---
 
@@ -51,25 +51,25 @@ Roster updates must be approved by Command.
 
 ## Advanced Medicine Unit (AMU)
 
-| Name | Role | Status |
-|-----|-----|-----|
-| TBD | Surgeon | Active |
+| Name | Call Sign | Role | Status |
+|-----|-----|-----|-----|
+| TBD | AMU-01 | Surgeon | Active |
 
 ---
 
 ## Crisis Response Unit (CRU)
 
-| Name | Role | Status |
-|-----|-----|-----|
-| TBD | Crisis Specialist | Active |
+| Name | Call Sign | Role | Status |
+|-----|-----|-----|-----|
+| TBD | CRU-01 | Crisis Specialist | Active |
 
 ---
 
 ## Life Flight
 
-| Name | Role | Status |
-|-----|-----|-----|
-| TBD | Flight Medic | Active |
+| Name | Call Sign | Role | Status |
+|-----|-----|-----|-----|
+| TBD | AIR-01 | Flight Medic | Active |
 
 ---
 
@@ -78,10 +78,32 @@ Roster updates must be approved by Command.
 | Status | Meaning |
 |------|------|
 | Active | Fully operational and cleared for duty |
-| Training | Currently in FTO / probationary training |
+| Training | Currently in FTO or probationary training |
 | LOA | Leave of Absence |
 | Suspended | Temporarily restricted from duty |
 | Probation | Under evaluation by Command |
+
+---
+
+# Call Sign Structure
+
+Call signs help identify personnel on radio and during incidents.
+
+Example structure:
+
+| Call Sign | Meaning |
+|------|------|
+| EMS-01 | Director |
+| EMS-10 | Command Staff |
+| EMS-20 | Supervisors |
+| EMS-30–39 | Paramedics |
+| EMS-40–49 | EMT-Intermediate |
+| EMS-50–59 | EMT-Basic |
+| EMS-60–69 | EMR |
+| AIR-## | Life Flight |
+| AMU-## | Hospital Staff |
+
+Call sign assignments are managed by Command.
 
 ---
 
@@ -95,4 +117,5 @@ Roster updates must be approved by Command.
 ---
 
 **Last Updated:** YYYY-MM-DD  
+**Updated By:** Command Staff
 **Updated By:** Command Staff
