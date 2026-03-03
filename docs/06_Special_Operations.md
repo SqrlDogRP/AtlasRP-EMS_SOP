@@ -1,18 +1,18 @@
-# Part VI — Special Operations
+# Special Operations
 
-## Life Flight
-- Supervisor authorization required
-- Used when ground access not feasible
+Life Flight:
+- Supervisor authorization
+- LZ must be secure
 
-## Fire & Rescue
-- Two-in Two-out rule
-- PPE mandatory
+Fire & Rescue:
+- Two-in Two-out
+- PPE required
 
-## Crisis Response Unit
+CRU:
 - De-escalation first
-- Coordinate with LEO
 
-## Advanced Medicine Unit
+AMU:
 - Surgical authority
-- Medical Holds permitted
-- Injury recovery timelines determined by AMU
+- Medical holds
+- Fitness-for-duty evaluations
+- Court ordered evaluations

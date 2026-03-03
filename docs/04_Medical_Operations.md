@@ -1,18 +1,13 @@
-# Part IV — Medical Operations
+# Medical Operations
 
-## Scene Safety
-- No entry until Code 4.
-- Stage during active gunfire.
-- Withdraw if unsafe.
+Scene Safety:
+- Stage until Code 4.
+- No hot zone entry.
 
-## Assessment
-Primary: ABCDE  
-Secondary: Head-to-Toe  
+Primary Survey: ABCDE
+Secondary Survey: Full assessment.
 
-## Treatment Philosophy
-Stabilize in field. Definitive care at hospital.
+Field Philosophy:
+Stabilize → Transport → Definitive Care
 
-## Transport
-Red patients → Immediate transport  
-Full verbal handoff required  
-PCR required within 24 hours
+PCR required for every contact.

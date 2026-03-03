@@ -1,32 +1,43 @@
 # ATLAS RP Emergency Medical Authority (AEMA)
 
-## Semi-Serious & Balanced Edition
-
-This repository contains the official Standard Operating Procedures for the ATLAS RP Emergency Medical Authority.
-
-### Design Philosophy
-ATLAS EMS operates in a semi-serious but balanced environment:
-- Realistic medical roleplay
-- Clear authority structure
-- No powergaming
-- No excessive realism that blocks fun
-- Structured progression and accountability
+## FULL AUTHORITY EDITION
+Generated: 2026-03-03
 
 ---
 
-## Structure
+## Philosophy
 
-- 01_Introduction.md
-- 02_Rank_and_Command.md
-- 03_Scope_of_Practice.md
-- 04_Medical_Operations.md
-- 05_Incident_Command_System.md
-- 06_Special_Operations.md
-- 07_Revival_and_Injury_System.md
-- 08_Field_and_Interagency_Standards.md
-- 09_Administration_and_Discipline.md
+ATLAS EMS operates in a semi-serious but structured realism environment.
+
+We balance:
+- Immersion
+- Medical authority
+- Player fairness
+- Story progression
+- Controlled injury realism
+
+EMS controls medical outcomes.
+AMU controls long-term recovery.
+Command controls disputes.
 
 ---
 
-**Motto:** Precision Under Pressure  
-**Version:** 2026 Balanced Edition
+## Repository Structure
+
+01_Introduction.md
+02_Command_Structure.md
+03_Scope_of_Practice.md
+04_Medical_Operations.md
+05_Incident_Command_System.md
+06_Special_Operations.md
+07_Revival_and_Injury_System.md
+08_Injury_Recovery_Timeline.md
+09_Promotion_and_Certifications.md
+10_Internal_Affairs.md
+11_Life_Flight_Manual.md
+12_Field_and_Interagency.md
+13_Administration_and_Discipline.md
+
+---
+
+Motto: Precision Under Pressure

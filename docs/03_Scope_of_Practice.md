@@ -1,14 +1,12 @@
-# Part III — Scope of Practice
+# Scope of Practice Matrix
 
-| Intervention | EMR | EMT Basic | EMT Int | Paramedic | AMU |
-|--------------|-----|----------|--------|----------|-----|
-| CPR/AED | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Skill | EMR | EMT-B | EMT-I | Paramedic | AMU |
+|-------|------|-------|--------|------------|------|
+| CPR | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Oxygen | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Basic Airway | ✓ | ✓ | ✓ | ✓ | ✓ |
-| IV Access | ✗ | ✗ | ✓ (CC) | ✓ | ✓ |
-| Medication | ✗ | Limited | Limited | ✓ | ✓ |
+| IV | ✗ | ✗ | ✓ | ✓ | ✓ |
+| Medication | ✗ | Limited | Limited | Full | Full |
 | Intubation | ✗ | ✗ | ✗ | ✓ | ✓ |
-| Field Death Pronouncement | ✗ | ✗ | Limited | ✓ | ✓ |
-| Surgery | ✗ | ✗ | ✗ | ✗ | ✓ |
+| Surgical Intervention | ✗ | ✗ | ✗ | ✗ | ✓ |
 
-No provider may exceed their scope for RP convenience.
+Exceeding scope = strike offense.
