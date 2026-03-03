@@ -14,3 +14,10 @@ Severe: 10+ min + transport
 
 ## CPR
 CPR is not guaranteed. It is a roleplay attempt.
+
+## Multiple Major Trauma Rule
+
+If a player experiences multiple severe traumas within a short time frame,
+AMU may escalate recovery length or declare long-term complications.
+
+Repeated “major trauma” RP may result in extended medical restrictions.
