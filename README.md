@@ -1,17 +1,21 @@
-# ATLAS RP Emergency Medical Authority (AEMA) — EMS SOP
+# Atlas RP – Emergency Medical Services (EMS)
 
-**Style:** Semi-Serious, Balanced, Enforceable  
-**Updated:** 2026-03-03
+Welcome to the **Atlas RP EMS** Standard Operating Procedures (SOP) repository.
 
-## Purpose
-This SOP exists to keep EMS consistent, immersive, and fair:
-- Realism without turning RP into paperwork
-- Clear authority without abuse
-- Anti-powergaming guardrails
-- Fast, predictable decisions on scenes
+This repo contains the official documentation for how the EMS division operates on the Atlas RP FiveM server. These procedures exist to keep EMS roleplay consistent, fair, and enjoyable for everyone involved.
 
-## Start Here
-- **docs/00_INDEX.md**
+> **Disclaimer:** This document is for roleplay purposes only. It is not real‑world medical guidance.
 
-## Policy Truth Rule
-If two documents ever conflict, the newer file in the index wins. Conflicts must be fixed via PR.
+---
+
+## Documents
+
+- [`EMS_SOP.md`](./EMS_SOP.md) – Full EMS Standard Operating Procedures (core doc).
+- [`EMS_Training.md`](./EMS_Training.md) – Training flow, FTO expectations, and evaluation.
+- [`EMS_Changelog.md`](./EMS_Changelog.md) – Version history and updates.
+
+---
+
+## Contact
+
+Questions, suggestions, or issues with the SOP can be directed to EMS Command or server staff via the Atlas RP Discord.
