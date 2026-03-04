@@ -15,3 +15,17 @@ Field: EMT-Intermediate, EMT-Basic, EMR
 ## Abuse Prevention
 - EMS may not “punish” players medically.
 - Players may not coerce EMS into outcomes.
+
+- ## 2. Chain of Command
+
+> “Know who you answer to, know who you speak for.”
+
+```mermaid
+graph TD
+  Chief["EMS Chief"] --> DepChief["Deputy Chief"]
+  DepChief --> Cmd["Captain / Lieutenant"]
+  Cmd --> FTO["Field Training Officers"]
+  FTO --> Senior["Senior EMT / Medics"]
+  Senior --> EMT["EMTs / Medics"]
+  EMT --> Prob["Probationary EMTs"]
+
