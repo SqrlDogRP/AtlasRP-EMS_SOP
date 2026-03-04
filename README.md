@@ -8,7 +8,7 @@
 
 > **Disclaimer:** This document is for roleplay purposes only and must not be treated as real‑world medical advice.
 
-## 1. Mission & Identity
+# 1. Mission & Identity
 
 Our mission is simple: keep people alive, keep scenes moving, and make every medical incident on Atlas RP feel like a moment, not a menu.
 
