@@ -1,9 +1,9 @@
-# Changelog
+# Atlas RP EMS SOP – Changelog
 
-## 2026-03-03 — vNext (Restructure + Decision Trees + Comms + Training)
-- Removed duplicate/conflicting docs (02/08/09/12/13 sets)
-- Introduced ops/admin/special/forms folders
-- Added Medical Decision Trees (GSW/MVC/OD/etc.)
-- Added Radio & Comms SOP
-- Added FTO program + ride-along scorecard
-- Added citizen-facing expectations doc (reduces scene arguments)
+All significant changes to EMS policy and SOP should be logged here.
+
+| Version | Date       | Author           | Summary of Changes                                 |
+|--------:|-----------:|-----------------:|----------------------------------------------------|
+| 1.0.0   | 2026‑03‑04 | YourName / Sqrl  | Initial structured SOP for Atlas RP EMS added.     |
+
+> When you update the SOP, add a new row with the version number, date, your name, and a short summary of what changed.
