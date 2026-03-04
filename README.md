@@ -1,10 +1,16 @@
-# Atlas RP – Emergency Medical Services (EMS)
+# Atlas RP | Emergency Medical Services (EMS)
 
-Welcome to the **Atlas RP EMS** Standard Operating Procedures (SOP) repository.
+> “We’re the line between chaos and the respawn screen.”
 
-This repo contains the official documentation for how the EMS division operates on the Atlas RP FiveM server. These procedures exist to keep EMS roleplay consistent, fair, and enjoyable for everyone involved.
+**Version:** 1.0.0  
+**Last Updated:** 2026‑03‑04  
+**Author:** YourName / Sqrl
 
-> **Disclaimer:** This document is for roleplay purposes only. It is not real‑world medical guidance.
+> **Disclaimer:** This document is for roleplay purposes only and must not be treated as real‑world medical advice.
+
+## 1. Mission & Identity
+
+Our mission is simple: keep people alive, keep scenes moving, and make every medical incident on Atlas RP feel like a moment, not a menu.
 
 ---
 
