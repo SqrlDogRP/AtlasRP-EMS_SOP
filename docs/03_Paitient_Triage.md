@@ -101,8 +101,38 @@ Keep your triage decisions simple and clear; you are not doing real‑world algo
 
 Use /me and /do to make triage obvious to everyone:
 
-```text
 /me does a quick scan of the scene, checking who is breathing and bleeding the worst.
 /me kneels by the unconscious male, checks for a pulse and breathing.
 /do You would see a red triage tag placed on your wrist.
 /me walks over to the standing female and gives her a green tag, telling her to wait by the ambulance.
+
+### 3.4 Single‑Patient Triage
+
+Even when there is only one patient, you should still quickly decide where they would land on the color scale. This helps you pace your RP and decide how aggressive you should be with treatment and transport.
+
+- Treat a clearly critical patient as **Red**: move fast, focus on life‑saving interventions, and get them moving toward a hospital rather than over‑roleplaying on scene.  
+- Treat a clearly injured but stable patient as **Yellow**: give them solid care and RP, but you have a little breathing room.  
+- Treat a minor complaint as **Green**: keep it light and efficient so you can stay available for real emergencies.
+
+Example:
+
+- Unconscious after a high‑speed crash with bad injuries → effectively Red.  
+- Broken arm, controlled bleeding, talking clearly → effectively Yellow.  
+- Small cut, no real impairment, just wants a bandage → effectively Green.
+
+---
+
+### 3.5 Multi‑Agency Triage
+
+When PD or Fire are involved, triage is a team sport, but EMS owns the medical side.
+
+- **PD** handles scene safety, suspects, weapons, and traffic control.  
+- **Fire/Rescue** (if present) may handle extrication, fire suppression, and can assist with initial triage.  
+- **EMS** has final say on medical triage categories and transport priority unless a staff member directs otherwise.
+
+On larger scenes, make triage clear to everyone:
+
+```text
+"Medic 1 to all units: We have two Red, one Yellow, and three Green patients."
+"EMS Command: Red patients go with Medic 1 and Medic 2, Yellow with Medic 3, Greens remain staged near the ambulance."
+
