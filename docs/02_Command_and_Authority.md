@@ -4,39 +4,87 @@
 This section defines how command and authority work within Atlas RP Emergency Medical Services (EMS), both day‑to‑day and on active scenes. It exists so every member knows who is in charge, how decisions are made, and how to escalate issues without drama.
 
 2.1 Chain of Command
-The EMS chain of command, from highest to lowest, is:
+# Medical Department Rank Structure  
+*(10 Ranks + Whitelisted Roles)*
 
-Chief
+---
 
-Captain
+## Core Ranks
 
-Lieutenant
+### EMT Trainee
+- Entry-level member in training.  
+- Must operate under direct supervision.  
+- Limited permissions; no solo calls.  
 
-Senior Paramedic
+### EMT
+- Basic field responder.  
+- Handles routine calls and basic treatment.  
+- May operate solo when cleared by command.  
 
-Paramedic
+### Advanced EMT
+- Experienced field provider.  
+- Handles higher-acuity patients and assists Paramedics.  
+- Can mentor Trainees under supervision.  
 
-Advanced EMT
+### Paramedic
+- Full field treatment and transport provider.  
+- Handles critical patients and complex scenes.  
+- May act as scene lead when no senior rank is present.  
 
-EMT
+### Senior Paramedic
+- Senior field medic and informal leader.  
+- Mentors lower ranks and supports training.  
+- Often first choice for acting scene command.  
 
-EMT Trainee
+### Lieutenant
+- First-line supervisor and shift leader.  
+- Oversees day-to-day operations and scene command.  
+- Handles minor discipline and approves basic promotions.  
 
-The following are whitelisted clinical roles that do not change the chain of command but do change who leads medical treatment in the hospital environment:
+### Captain
+- Division or shift commander.  
+- Manages supervisors, policy enforcement, and department projects.  
+- Handles major disciplinary actions and higher-rank promotions.  
 
-Doctor (whitelisted)
+### Chief
+- Head of the Medical Department.  
+- Final authority on policy, hiring, firing, and structure.  
+- Represents the department to city/staff leadership.  
 
-Nurse (whitelisted)
+---
 
-All EMS personnel are expected to:
+## Whitelisted Clinical Roles
 
-Follow this chain of command for questions, requests, and problems.
+### Nurse *(Whitelisted Role)*
+- Hospital-focused medical professional.  
+- Assists with patient care, monitoring, and post-arrival treatment.  
+- Must be whitelisted and complete hospital training.  
 
-Respect decisions from higher ranks, even when they disagree IC.
+### Doctor *(Whitelisted Role)*
+- Advanced hospital medical professional.  
+- Leads advanced treatment and surgery-style RP.  
+- Must be whitelisted and complete advanced medical RP training.  
 
-Avoid “command shopping” (asking multiple people until they get the answer they want).
+---
 
-If two people of the same rank are present, the one designated by command or the one who arrived first is considered in charge unless otherwise stated.
+## Whitelist Rules (Nurse & Doctor)
+
+### Nurse
+- Requires: Trusted member, minimum EMS rank (e.g., EMT or Paramedic), completion of hospital training.  
+- Granted and revoked only by Command (Lieutenant+).  
+
+### Doctor
+- Requires: Highly trusted member, strong medical RP, completion of advanced medical training.  
+- Granted and revoked only by High Command (Captain/Chief).  
+
+---
+
+## Command Rules
+
+- On active scenes: Highest line **rank** (not whitelisted role) is in charge.  
+- In hospital treatment: Doctor leads care, Nurse assists, EMS supports.  
+- For staffing, discipline, and promotions: Lieutenant and above decide.  
+
 
 2.2 Rank Roles and Authority
 Chief
