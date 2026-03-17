@@ -86,11 +86,11 @@ This section defines how command and authority work within Atlas RP Emergency Me
 - For staffing, discipline, and promotions: Lieutenant and above decide.  
 
 
-2.2 Rank Roles and Authority
+## 2.2 Rank Roles and Authority
 Chief
 The Chief is the head of the department and has ultimate authority over EMS operations.
 
-The Chief:
+### The Chief:
 
 Sets EMS policy and approves or vetoes SOP changes.
 
@@ -100,7 +100,7 @@ Represents EMS in server‑wide leadership discussions and events.
 
 May override any EMS decision if it conflicts with SOP, server rules, or community direction.
 
-Captain
+### Captain
 The Captain is senior command and helps run the department beneath the Chief.
 
 The Captain:
@@ -113,7 +113,7 @@ Reviews disciplinary cases and training outcomes, recommending promotions or fur
 
 Acts as Chief when the Chief is offline or otherwise unavailable (if designated).
 
-Lieutenant
+### Lieutenant
 Lieutenants are first‑line command and are responsible for running shifts and enforcing SOP.
 
 Lieutenants:
@@ -128,7 +128,7 @@ Assume scene command at major incidents when present.
 
 Approve or deny routine requests such as LOAs, temporary role changes, and training sessions.
 
-Senior Paramedic
+### Senior Paramedic
 Senior Paramedics are experienced medics with proven reliability and RP quality.
 
 Senior Paramedics:
@@ -141,7 +141,7 @@ Are expected to model correct SOP behavior at all times.
 
 Are not command, but their judgment on patient care decisions carries weight when no command member is available.
 
-Paramedic
+### Paramedic
 Paramedics are full ALS field providers and the core of EMS operations.
 
 Paramedics:
@@ -152,7 +152,7 @@ May act as scene lead when no Senior Paramedic or command member is present.
 
 Represent the department professionally on and off scene.
 
-Advanced EMT
+### Advanced EMT
 Advanced EMTs are experienced BLS/ILS providers.
 
 Advanced EMTs:
@@ -163,7 +163,7 @@ Assist with training EMTs and EMT Trainees when asked.
 
 Follow direction from Senior Paramedics and command staff.
 
-EMT
+### EMT
 EMTs are basic field providers and the backbone of day‑to‑day response.
 
 EMTs:
@@ -174,7 +174,7 @@ Take direction from Advanced EMTs, Paramedics, Seniors, and command staff.
 
 Represent the department professionally on and off scene.
 
-EMT Trainee
+### EMT Trainee
 EMT Trainees are probationary members in training and have limited authority.
 
 EMT Trainees:
@@ -185,7 +185,7 @@ Must ask questions and follow instructions during scenes.
 
 Do not make major scene or policy decisions without approval.
 
-2.2.1 Whitelisted Clinical Roles
+## 2.2.1 Whitelisted Clinical Roles
 These roles are whitelisted and granted only to trusted members who complete additional training. They do not automatically outrank anyone in the chain of command, but they do carry authority over clinical decisions in hospital settings.
 
 Doctor (Whitelisted)
@@ -210,12 +210,12 @@ Support Doctors and EMS in the hospital and help keep medical RP active between 
 
 May provide treatment independently within their scope when no Doctor is available.
 
-2.3 On‑Scene Command
+## 2.3 On‑Scene Command
 “On scene, clarity beats chaos.”
 
 On any EMS‑related scene, one person should be clearly recognized as medical command.
 
-2.3.1 Who is in Charge on Scene
+## 2.3.1 Who is in Charge on Scene
 Medical command typically follows this order:
 
 Highest EMS rank (Chief, Captain, Lieutenant, Senior Paramedic, etc.) on scene acts as medical command.
