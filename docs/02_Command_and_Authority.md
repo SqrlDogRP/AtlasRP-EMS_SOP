@@ -1,4 +1,4 @@
-02 – Command and Authority
+## 02 – Command and Authority
 “Know who you answer to. Know who you speak for.”
 
 This section defines how command and authority work within Atlas RP Emergency Medical Services (EMS), both day‑to‑day and on active scenes. It exists so every member knows who is in charge, how decisions are made, and how to escalate issues without drama.
