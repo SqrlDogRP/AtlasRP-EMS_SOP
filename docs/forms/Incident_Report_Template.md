@@ -1,17 +1,52 @@
-# Incident Report Template
+### EMS Incident Report Template (Non‑Medical / Administrative)
 
-Date/Time:
-Units involved:
-Location:
+**Incident Number:**  
+**Date / Time of Incident:**  
+**Reporter Name & Callsign:**  
+**Role/Rank:**  
 
-Summary:
--
+**Location of Incident:**  
+(Street / area / interior location / server info)
 
-Actions:
--
+**Type of Incident (check all that apply):**  
+- [ ] Injury to patient or member  
+- [ ] Vehicle crash or damage  
+- [ ] Equipment failure  
+- [ ] Policy / SOP violation  
+- [ ] Behavioral / conduct issue  
+- [ ] Other: ______________________  
 
-Outcome:
--
+**People Involved:**  
+- Name / Callsign / Role: __________________________  
+- Name / Callsign / Role: __________________________  
+- Name / Callsign / Role: __________________________  
 
-Follow-ups:
--
+**Brief Incident Summary (what happened):**  
+- (1–3 sentences: who, what, where, when.)  
+
+**Detailed Narrative (chronological, facts only):**  
+- What you saw and did.  
+- Any commands given or orders received.  
+- Any injuries, damage, or safety risks.  
+
+**Injuries or Damage (if any):**  
+- Describe injuries (IC or OOC), treatment given, and outcome.  
+- Describe any vehicle or property damage.  
+
+**Immediate Actions Taken:**  
+- Medical care provided (if any).  
+- Scene secured, units moved, supervisor notified, etc.  
+
+**Witnesses (if any):**  
+- Name / Callsign / Contact: ________________________  
+- Name / Callsign / Contact: ________________________  
+
+**Was Command/Staff Notified?**  
+- [ ] Yes – Who and when: __________________________  
+- [ ] No  
+
+**Reporter’s Recommendation (optional):**  
+- Training, IA review, equipment check, debrief, etc.  
+
+**Signature / Identifier of Reporter:**  
+**Date/Time Report Completed:**
