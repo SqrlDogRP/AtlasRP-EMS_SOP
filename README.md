@@ -14,14 +14,6 @@ Our mission is simple: keep people alive, keep scenes moving, and make every med
 
 ---
 
-## Documents
-
-- [`EMS_SOP.md`](./EMS_SOP.md) – Full EMS Standard Operating Procedures (core doc).
-- [`EMS_Training.md`](./EMS_Training.md) – Training flow, FTO expectations, and evaluation.
-- [`EMS_Changelog.md`](./EMS_Changelog.md) – Version history and updates.
-
----
-
 ## Contact
 
 Questions, suggestions, or issues with the SOP can be directed to EMS Command or server staff via the Atlas RP Discord.
